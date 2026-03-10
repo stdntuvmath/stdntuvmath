@@ -1,16 +1,28 @@
-## Hi there 👋
+# Brandon Turner
+Machine Learning Engineer | Python | Data Pipelines | AI Systems
 
-<!--
-**stdntuvmath/stdntuvmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Machine Learning Projects
 
-Here are some ideas to get you started:
+- ml-trading-system
+- ml-api-service
+- ml-data-pipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Engineering Systems
+
+- LootLoader
+- LLLongTerm
+- ADTOOL
+
+## Skills
+
+Python  
+Machine Learning  
+Data Engineering  
+Docker  
+AWS (Amazon Web Services)
+
+## Currently Learning
+
+Machine Learning Engineering  
+MLOps (Machine Learning Operations)  
+Cloud ML Systems
