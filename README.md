@@ -5,9 +5,9 @@ Machine Learning Engineer | Python | Data Pipelines | AI Systems
 
 - ml-trading-system
 - ml-api-service
-- ml-data-pipeline
+- ml-image-generation
 
-## Engineering Systems
+## Other Engineering Systems
 
 - LootLoader
 - LLLongTerm
