@@ -1,29 +1,51 @@
 # Brandon Turner
-Machine Learning Engineer | Python | Data Pipelines | AI Systems
 
-## Machine Learning Projects
+Machine Learning Engineer (in progress) focused on building real systems, not just models.
 
-- ml-trading-system
-- ml-api-service
-- ml-image-generation
+---
 
-## Other Engineering Systems
+## Current Focus
 
-- LootLoader
-- LLLongTerm
-- ADTOOL
+Building a 10-week Machine Learning Engineering roadmap centered on:
+
+- Real-world projects
+- Data pipelines
+- Model development
+- Docker (Containerization)
+- AWS (Amazon Web Services)
+- Production-ready systems
+
+---
+
+## Active Project
+
+### ML Engineering Roadmap
+A structured, public journey to becoming a Machine Learning Engineer through hands-on work.
+
+- Phase 0 Complete: Image Processing Pipeline
+- Next: Data Analysis and First ML Model
+
+Repo:
+https://github.com/stdntuvmath/ml-image-generation
+
+---
 
 ## Skills
 
-Python  
-Machine Learning  
-Data Engineering  
+- Python
+- Data Processing
+- Git / GitHub
+- System Design (in progress)
+- Machine Learning (in progress)
 
+---
 
-## Currently Learning
+## Goal
 
-Machine Learning Engineering  
-MLOps (Machine Learning Operations)  
-Cloud ML Systems
-Docker  
-AWS (Amazon Web Services)
+To build and deploy machine learning systems that solve real-world problems and demonstrate engineering capability.
+
+---
+
+## Connect
+
+LinkedIn: (add your link here)
