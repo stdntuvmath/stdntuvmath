@@ -48,4 +48,4 @@ To build and deploy machine learning systems that solve real-world problems and 
 
 ## Connect
 
-LinkedIn: (add your link here)
+LinkedIn: www.linkedin.com/in/brandon-dale-turner-071551220
